@@ -1,7 +1,7 @@
 # Pixelioons
 # <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
 
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
+![Pexelicons Logo](https://github.com/heyysahil/Pixelioons/blob/main/Screenshot%20(117).png)
 
 Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
